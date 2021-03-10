@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hey there, I'm Audrey!
 
-<!--
-**audrey-kho/audrey-kho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m currently working on:
+- 🌱 ReThink @ UW: [SUB Initiative](https://mail.subinitiative.com/subscribe) with an amazing team of student developers
+- 👩‍💻 [Personal website](http://audrey-kho.github.io/) -- complete redesign coming soon
 
-Here are some ideas to get you started:
+### I’m currently learning
+- ⚛ React + React frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact:
+- 📬 [ackho@uw.edu](mailto:ackho@uw.edu)
+- 👩‍🎓 [LinkedIn](https://www.linkedin.com/in/audrey-kho/)
+
+### Fun fact:
+- 🍞 When I'm not programming, I enjoy listening to broadway musicals/movie soundtracks, learning about design, cooking, and baking.
