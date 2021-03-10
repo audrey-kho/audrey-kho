@@ -7,7 +7,7 @@
 ### I’m currently learning
 - ⚛ React + React frameworks
 
-### Contact:
+### Reach me at:
 - 📬 [ackho@uw.edu](mailto:ackho@uw.edu)
 - 👩‍🎓 [LinkedIn](https://www.linkedin.com/in/audrey-kho/)
 
