@@ -2,7 +2,7 @@
 
 ### I’m currently working on:
 - 🌱 ReThink @ UW: [SUB Initiative](https://www.subinitiative.com/) with an amazing team of student developers
-- 👩‍💻 [Personal website](http://audrey-kho.github.io/) -- complete redesign coming soon
+- 👩‍💻 [My portfolio website](http://audrey-kho.github.io/) -- complete redesign coming soon
 
 ### I’m currently learning
 - ⚛ React + React frameworks
