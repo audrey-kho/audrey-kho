@@ -6,7 +6,7 @@
 
 ### I’m currently learning
 - ⚛ React + React frameworks
-- ⌨ Typescript
+- 💅 styled-components
 
 ### Reach me at:
 - 📬 [ackho@uw.edu](mailto:ackho@uw.edu)
