@@ -3,7 +3,6 @@
 ### I’m currently working on:
 - 🌱 ReThink @ UW: [SUB Initiative](https://www.subinitiative.com/) with an amazing team of student developers!
 - 👩‍💻 [My portfolio website](http://audrey-kho.github.io/) -- complete redesign coming soon
-- 💙 Interning at Ionic's web team
 
 ### I’m currently learning
 - ⚛ React + React frameworks
