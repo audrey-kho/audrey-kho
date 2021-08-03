@@ -7,7 +7,6 @@
 
 ### I’m currently learning
 - ⚛ Next.js
-- 💅 styled-components
 
 ### Reach me at:
 - 📬 [audreyckho@gmail.com](mailto:audreyckho@gmail.com)
