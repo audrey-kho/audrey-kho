@@ -3,7 +3,6 @@
 ### I’m currently
 - 👩🏻‍💻 Building webpages at [Ionic](https://ionic.io/)
 - 👩‍🎨 Designing & building portfolio websites
-- 🗽 Exploring NYC!
 <!-- - 🌱 ReThink @ UW: [SUB Initiative](https://www.subinitiative.com/) with an amazing team of student developers! -->
 
 ### I’m learning
