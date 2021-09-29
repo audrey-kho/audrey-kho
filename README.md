@@ -1,5 +1,5 @@
 ## 👋 Hey there, I'm Audrey!
-I'm a junior at the University of Washington studying Informatics. Check out my newly redesigned [portfolio website](http://audrey-kho.github.io/)!
+I'm a junior at the University of Washington studying Informatics. Check out my newly redesigned portfolio website [here](http://audrey-kho.github.io/)!
 
 ### I’m currently
 - 👩🏻‍💻 Building webpages at [Ionic](https://ionic.io/)
