@@ -5,7 +5,7 @@ I'm a junior at the University of Washington studying Informatics. Check out my 
 - 🌱 [UW SUB Initiative](https://github.com/ReThink-SUB) with an amazing team of student developers!
 
 ### I’m learning
-- ⚛ Next.js
+- ⚛ Node.js
 
 ### Say hello
 - 📬 [audreyckho@gmail.com](mailto:audreyckho@gmail.com)
