@@ -1,9 +1,6 @@
 ## 👋 Hey there, I'm Audrey!
 I'm a junior at the University of Washington studying Informatics. Check out my new portfolio website [here](http://audrey-kho.github.io/)!
 
-### I’m currently working on
-- 🌱 [UW SUB Initiative](https://github.com/ReThink-SUB) with an amazing team of student developers!
-
 ### I’m learning
 - ⚛ Node.js
 
