@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Audrey!
-I'm a rising senior at the University of Washington studying Informatics, currently interning at Braze in NYC! 🗽
+I'm a senior at the University of Washington studying Informatics
 
 ### I’m learning about
 - ⚛ Node.js
