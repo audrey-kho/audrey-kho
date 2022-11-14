@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Audrey!
-I'm a senior at the University of Washington studying Informatics
+I'm a senior studying Informatics at the University of Washington
 
 ### I’m learning about
 - ⚛ Node.js
