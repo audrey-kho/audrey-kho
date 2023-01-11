@@ -2,8 +2,8 @@
 I'm a senior studying Informatics at the University of Washington
 
 ### I’m learning about
-- ⚛ Node.js
-- ✅ Testing
+- 👁️ Visual Communication
+- 🫖 Product Design
 
 ### Say hi!
 - 📬 [audreyckho@gmail.com](mailto:audreyckho@gmail.com)
