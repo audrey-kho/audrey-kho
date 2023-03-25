@@ -4,6 +4,7 @@ I'm a senior studying Informatics at the University of Washington
 ### I’m learning about
 - 👁️ Visual Communication
 - 🫖 Product Design
+- 🤖 Android Development
 
 ### Say hi!
 - 📬 [audreyckho@gmail.com](mailto:audreyckho@gmail.com)
