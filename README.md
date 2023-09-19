@@ -1,18 +1,9 @@
 ## 👋 Hi there, I'm Audrey!
-I'm a senior studying Informatics at the University of Washington
 
-[![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audrey-kho&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+### I am passionate about full-stack web development 👩‍💻, visual design 🎨, and application security 🔐.
 
-### I’m learning about
-- 👁️ Visual Communication
-- 🫖 Product Design
-- 🕹️ Game Development
+Recently, I worked as a software engineer intern at [Adobe](https://www.adobe.com/), where I built full-stack internal tools for team productivity. I also previously interned at [Braze](https://www.braze.com/) and [Ionic](https://ionic.io/). Read more about me and my past work on my [portfolio](https://audrey-kho.github.io/).
 
-### Say hi!
-- 📬 [audreyckho@gmail.com](mailto:audreyckho@gmail.com)
-- 👩‍🎓 [LinkedIn](https://www.linkedin.com/in/audrey-kho/)
-
-### Fun fact
-- 🍞 I enjoy listening to broadway musicals/movie soundtracks, learning about design, cooking, and baking.
+I am actively seeking 2024 new grad SWE opportunities 🌟
 #
-More about me: http://audrey-kho.github.io
+Find me on [Linkedin](https://www.linkedin.com/in/audrey-kho/) or [read.cv](https://read.cv/audreykho)
