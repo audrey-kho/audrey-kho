@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Audrey!
 
-### I am passionate about full-stack web development 👩‍💻, visual design 🎨, and application security 🔐.
+### I am passionate about web development 👩‍💻, visual design 🎨, and application security 🔐.
 
-This summer, I worked as a software engineer intern at [Adobe](https://www.adobe.com/), where I built a full-stack task automation tool with the Adobe Express team. I also previously interned at [Braze](https://www.braze.com/) and [Ionic](https://ionic.io/). 
+Last summer, I worked as a software engineer intern at [Adobe](https://www.adobe.com/), where I built a full-stack task automation tool with the Adobe Express team. I also previously interned at [Braze](https://www.braze.com/) and [Ionic](https://ionic.io/). 
 
 I'm actively seeking 2024 new grad SWE or UX Engineer opportunities 🌟
 #
