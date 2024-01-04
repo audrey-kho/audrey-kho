@@ -6,4 +6,4 @@ Last summer, I worked as a software engineer intern at [Adobe](https://www.adobe
 
 I'm actively seeking 2024 new grad SWE or UX Engineer opportunities 🌟
 #
-Read more about me and my past work at [audrey-kho.github.io](https://audrey-kho.github.io/) or [Linkedin](https://www.linkedin.com/in/audrey-kho/)
+Read more about me and my past work → [audrey-kho.github.io](https://audrey-kho.github.io/)
